@@ -1,5 +1,6 @@
 {
   "name": "@twilson63/spawn-pouchdb-server",
+  "version": "1.0.0",
   "description": "Configurable per-app pouchdb-server as a drop-in replacement for CouchDB",
   "main": "index.js",
   "scripts": {
